@@ -31,8 +31,8 @@
     },
     "exchange": {
         "name": "binance",
-        "key": "exchange_key",
-        "secret": "exchange_secret",
+        "key": "",
+        "secret": "",
         "ccxt_config": {},
         "ccxt_async_config": {},
         "pair_whitelist": [
@@ -71,8 +71,8 @@
         "listen_port": 8080,
         "verbosity": "error",
         "enable_openapi": false,
-        "jwt_secret_key": "jwt_secret_key",
-        "ws_token": "ws_token",
+        "jwt_secret_key": "e8ce12cb438ed54a75ab4bf1c59809a68fc21453e67da4d3706d3dce753dd5a3",
+        "ws_token": "gF-t4l3tRNc-FiRHIUcOM1jZHdfWUrgIMA",
         "CORS_origins": [],
         "username": "admin",
         "password": "admin"
